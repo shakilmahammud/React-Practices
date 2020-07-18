@@ -1,6 +1,7 @@
 h1, p ,h2,h3{
   font-family: Lato;
   color:#fff;
+  text-align: center;
 }
 body{
   background:purple;
